@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olsoninoslo
 
-- I’m interested in in web development, scientific computing, and AI.
+- I’m interested in in software development, scientific computing, and AI.
 
 - 📫 How to reach me -> email me at: charmbottomtop@protonmail.com
 
